@@ -1,0 +1,13 @@
+div {
+    padding: 32px;
+    text-align: center;
+    
+}
+body {
+    background-image: url("IMG/galaxia.jpg");
+    color: white;
+}
+ input,textarea {
+    opacity: 0.3;
+    border: none;
+ }
